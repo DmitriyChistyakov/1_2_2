@@ -1,6 +1,6 @@
 import Exception.MyArraySizeException;
 import Exception.MyArrayDataException;
-
+/** Bpvtytybz*/
 
 /**
  * 1. Напишите метод, на вход которого подаётся двумерный строковый массив размером 4х4,
